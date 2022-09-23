@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  rabbitmq:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2022-09-24T01:32:47.541232+05:30"
+    description: Rabbitmq Helm chart for Kubernetes
+    digest: 4e912a6be6ba60205cd42265f5870fc22ab7d8225cdf69e993c207d150ae3c41
+    maintainers:
+    - email: ranajoydutta7@gmail.com
+      name: ranajoy-dutta
+    name: rabbitmq
+    urls:
+    - https://ranajoy-dutta.github.io/k8s-rabbitmq/rabbitmq-1.0.0-chart1.tgz
+    version: 1.0.0-chart1
+generated: "2022-09-24T01:32:47.5312187+05:30"
